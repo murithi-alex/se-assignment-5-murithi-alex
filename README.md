@@ -28,7 +28,6 @@ Answer the following questions based on your understanding of the installation a
 
 3. User Interface Overview:
    - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
-
    Activity Bar: The Activity Bar is located on the far left side of the VS Code window. It contains icons for different views like Explorer, Search, Source Control, and Extensions. It provides quick access to these different functionalities, allowing users to switch between them easily.
    Side Bar: The Side Bar is located next to the Activity Bar. It contains different views such as Explorer, Search, Source Control, and Extensions. It also provides access to additional functionalities like debugging, Git integration, and extensions. Users can customize the Side Bar to show or hide specific views based on their preferences.
    Editor Group: The Editor Group is the central area of the VS Code window where files and folders are opened for editing. It consists of one or more editor panes, each displaying a file or a split view of multiple files. Users can navigate between different files and customize the layout of the Editor Group according to their workflow.
